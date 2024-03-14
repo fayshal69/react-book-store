@@ -1,0 +1,12 @@
+.book {
+    border: 2px solid tomato;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.book img {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 8px;
+}
